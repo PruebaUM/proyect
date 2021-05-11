@@ -5,7 +5,7 @@
 #include<fstream>
 using namespace std;
 
-// ++++++++++++MESAS+++++++++++++++ 
+// ++++++++++++MESAS++++++++
 
 void uno(),dos(),tres(),cuatro(),cinco(),ver();
 char var[30];   
@@ -20,7 +20,7 @@ main (){
     cout<<"4. Modificar" <<endl;
     cout<<"5. Eliminar" <<endl;
     cout<<"6. Salir" <<endl;
-    
+    //cambio
     do{
  cin>>var;
  cout<<"                   "<<endl;
